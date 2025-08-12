@@ -62,17 +62,17 @@ Stronger passwords significantly increase resistance to attacks. Complexity and 
 basic-vulnerability-scan/
 │
 ├── README.md             
-├── screenshots/                 
+├── screenshots/
+│   ├── SS(2)-1.png
+│   ├── SS(2)-2.png
+│   ├── SS(2)-3.png
+│   ├── SS(2)-4.png
+│   ├── SS(2)-5.png                
 │   ├── ss-1.png
 │   ├── ss-2.png
 │   ├── ss-3.png
 │   ├── ss-4.png
 │   ├── ss-5.png
-│   ├── SS(2)-1.png
-│   ├── SS(2)-2.png
-│   ├── SS(2)-3.png
-│   ├── SS(2)-4.png
-│   ├── SS(2)-5.png
 
 ---
 
